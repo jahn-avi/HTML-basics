@@ -1,4 +1,4 @@
-# HTML-basics
+# HTML CSS Js WEB DEVELOPMENT BASICS
 ⭐you can find html projects with very basic html structures
 # 🌡️ Unit Conversions 🌍
 
